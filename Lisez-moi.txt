@@ -1,0 +1,7 @@
+Pour coder le site avec moi en partant de zéro, utilisez le dossier "10-Projet-final".
+
+Si vous avez un doute ou que vous voulez utiliser le code source final, utilisez le dossier "code-source-complet".
+
+Pour visualiser la maquette, glissez le fichier "Kyoto-tours.fig" dans la page d'accueil Figma, là ou se situent vos projets.
+
+Bon code ! 
